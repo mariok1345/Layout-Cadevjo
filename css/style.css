@@ -543,6 +543,14 @@ iframe {
     padding-top: 2.5rem;
     padding-bottom: 2.5rem;
   }
+  .slick-prev {
+    left: -5px !important;
+  }
+
+  .slick-next {
+    right: -5px !important;
+  }
+
 }
 
 @media only screen and (max-width: 1469px) and (min-width: 1024px) {
