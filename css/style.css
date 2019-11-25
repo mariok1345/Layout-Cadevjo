@@ -347,7 +347,7 @@ ul li:last-child>a {
 
 .box-contain {
   height: 100%;
-  
+
 }
 
 /* ..................Section-2................... */
@@ -534,8 +534,14 @@ iframe {
     text-align: center;
   }
 
-  .a {
-    height: 100px;
+
+.title-how-are {
+    color: #e6a92a;
+    font-size: 2.5em;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
   }
 }
 
